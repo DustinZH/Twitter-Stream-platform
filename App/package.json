@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "echarts-for-react": "^2.0.0",
+    "google-map-react": "^0.25.0",
+    "jquery": "^3.2.1",
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "react-echarts": "^0.1.1",
+    "react-echarts-v3": "^1.0.14",
+    "react-google-maps": "^9.2.2",
+    "react-scripts": "1.0.17",
+    "recompose": "^0.26.0",
+    "require-promise": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
